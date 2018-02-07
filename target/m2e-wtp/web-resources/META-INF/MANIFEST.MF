@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: UnicoaADRes
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: leelamma
+Implementation-Vendor-Id: com.danyprj.adresaop
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/UnicoaADRes/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
